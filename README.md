@@ -19,8 +19,3 @@ This project is a Restaurant Management System developed using Java, focusing on
 - Java Development Kit (JDK) 11 or higher.
 - An IDE such as IntelliJ IDEA, Eclipse, or NetBeans.
 
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```sh
-   git clone <repository-url>
